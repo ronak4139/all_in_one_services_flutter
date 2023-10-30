@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "907782676444",
+    "project_id": "all-in-one-services-768a5",
+    "storage_bucket": "all-in-one-services-768a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907782676444:android:b138a541fca75648f5f919",
+        "android_client_info": {
+          "package_name": "com.mycompany.allinoneservices"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnW4Y8QeyViY2QIHwQJnlKwkHzg_rEGrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
